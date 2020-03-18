@@ -13,3 +13,5 @@ Problem 28 : Number spiral diagonals(https://projecteuler.net/problem=28)<br>
 <hr>
 Problem 29 : Distinct Powers (https://projecteuler.net/problem=29)<br>
 <hr>
+Problem 57: Square root convergents (https://projecteuler.net/problem=57)<br>
+<hr>
