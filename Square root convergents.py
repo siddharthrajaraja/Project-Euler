@@ -12,7 +12,7 @@ def digCount(n):
 
 for i in range(0,1001):
     #print("Numberator: ",num , "Denominator: ",den)
-    if(len(list(str(num)))>len(list(str(den)))):
+    if(digCount(num)>digCount(den)):
         c=c+1
     temDen=num+den
     temNum=den+temDen
