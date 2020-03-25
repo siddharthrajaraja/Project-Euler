@@ -15,3 +15,5 @@ Problem 29 : Distinct Powers (https://projecteuler.net/problem=29)<br>
 <hr>
 Problem 57: Square root convergents (https://projecteuler.net/problem=57)<br>
 <hr>
+problem 123: Prime square remainders
+(https://projecteuler.net/problem=123)
