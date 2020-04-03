@@ -17,3 +17,7 @@ Problem 57: Square root convergents (https://projecteuler.net/problem=57)<br>
 <hr>
 problem 123: Prime square remainders
 (https://projecteuler.net/problem=123)
+<hr>
+problem 69: Totient maximum
+(https://projecteuler.net/problem=69)
+
